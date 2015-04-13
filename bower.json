@@ -1,0 +1,17 @@
+{
+  "name": "domo.repeater",
+  "description": "repeat nodes",
+  "version": "0.1.0",
+  "main": "domo.repeater.js",
+  "dependencies": {
+    "define": "*",
+    "domo": "*"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "on",
+    "emit"
+  ],
+  "license": "MIT"
+}
