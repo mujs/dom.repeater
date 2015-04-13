@@ -8,10 +8,8 @@
     "domo": "*"
   },
   "keywords": [
-    "event",
-    "emitter",
-    "on",
-    "emit"
+    "dom",
+    "repeat"
   ],
   "license": "MIT"
 }
