@@ -1,7 +1,7 @@
-domo.repeater
+dom.repeater
 =============
 
-A [domo plugin](https://github.com/domojs/domo) to repeat elements
+A [dom plugin](https://github.com/mujs/dom) to repeat elements
 
 Usage
 -----
@@ -17,9 +17,9 @@ Usage
 ```
 
 ```js
-var dom    = require('domo').use({
-  on       : require('domo.on'),
-  repeater : require('domo.repeater')
+var dom    = require('dom').use({
+  on       : require('dom.on'),
+  repeater : require('dom.repeater')
 });
 
 var repeat = dom('#repeatme').repeater();
