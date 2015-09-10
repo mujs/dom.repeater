@@ -1,5 +1,5 @@
 dom.repeater
-=============
+============
 
 A [dom plugin](https://github.com/mujs/dom) to repeat elements
 
