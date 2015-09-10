@@ -1,9 +1,9 @@
-define('domo.repeater', function (require) {
+define('mu.dom.repeater', function (require) {
   'use strict';
 
-  var append = require('domo.append'),
-      remove = require('domo.remove'),
-      clone  = require('domo.clone');
+  var append = require('mu.dom.append'),
+      remove = require('mu.dom.remove'),
+      clone  = require('mu.dom.clone');
   
   var repeater = function (node) {
     var parent = node.parentNode,
